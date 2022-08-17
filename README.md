@@ -1,9 +1,4 @@
-## [HolaMundo](https://www.youtube.com/watch?v=jaxjtywrG2A) TODO App Challenge
 
-## [Review!! 🙋🏻‍♂️ min: 29:34](https://youtu.be/fyjNpvtzVhk?t=1774) 
-## Demo
-[Open Demo](https://nextjs-todo-list.vercel.app
-)
 ## Features
 
 **Task Module**
@@ -38,7 +33,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Screenshots
 <img src="https://raw.githubusercontent.com/jrgarciadev/nextjs-todo-list/master/public/screenshot1.png" alt="screenshot 1" />
 <img src="https://raw.githubusercontent.com/jrgarciadev/nextjs-todo-list/master/public/screenshot2.png" alt="screenshot 1" />
-<img src="https://raw.githubusercontent.com/jrgarciadev/nextjs-todo-list/master/public/screenshot3.png" alt="screenshot 1" />
 
 ## License
 
